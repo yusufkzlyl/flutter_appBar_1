@@ -14,4 +14,5 @@ Bu seride toplamda 10 tane farklı eklentileriyle AppBar projeleri paylaşacağ�
 
 
 
-![Flutter AppBar-1](https://user-images.githubusercontent.com/114624213/225960803-f4941f52-5722-47df-8298-4435657f89d1.jpeg)
+
+![Flutter AppBar-1](https://user-images.githubusercontent.com/114624213/225961802-ad6530f7-7488-441d-a6b6-090a67c81632.jpg)
