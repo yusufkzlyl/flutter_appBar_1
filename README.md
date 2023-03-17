@@ -1,16 +1,12 @@
-# flutter_appbar_1
+Herkese Merhaba !
 
-A new Flutter project.
+Bu proje Flutter kullanarak basit bir mobil uygulama geliştirmenize yardımcı olacak bir örnektir.
+Proje ,appBar örneği içermekte olup, özellikle Flutter'a yeni başlayanlar için ideal bir kaynak sunmaktadır.
 
-## Getting Started
+Projenin içeriği bir AppBar örneği içermektedir.AppBar, mobil uygulamalarda yaygın olarak kullanılan bir arayüz elemanıdır.
+Proje, birkaç basit adımı takip ederek, bir AppBar bileşeninin nasıl oluşturulacağını göstermektedir.
 
-This project is a starting point for a Flutter application.
+Flutter, kullanımı kolay arayüz bileşenleri ve hızlı performansı ile mobil uygulama geliştirmenin en popüler araçlarından biridir.
+Proje, Flutter'ın temel kavramlarına aşina olmanızı ve bir mobil uygulama geliştirmek için gerekli olan adımları öğrenmenizi sağlayacaktır.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bu seride toplamda 10 tane farklı eklentileriyle AppBar projeleri paylaşacağım.Takipte kalın...
