@@ -10,4 +10,8 @@ Flutter, kullanımı kolay arayüz bileşenleri ve hızlı performansı ile mobi
 Proje, Flutter'ın temel kavramlarına aşina olmanızı ve bir mobil uygulama geliştirmek için gerekli olan adımları öğrenmenizi sağlayacaktır.
 
 Bu seride toplamda 10 tane farklı eklentileriyle AppBar projeleri paylaşacağım.Takipte kalın...
+
+
+
+
 ![Flutter AppBar-1](https://user-images.githubusercontent.com/114624213/225960803-f4941f52-5722-47df-8298-4435657f89d1.jpeg)
